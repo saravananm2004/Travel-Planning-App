@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    destination 01
+    <string name="place_1">Chennai </string>
+    <string name="plan">7days/2persons</string>
+    <string name="description">Super saver pack with less than ₹20000</string>
+
+
+    destination 02
+    <string name="place_2">Kodaikanal </string>
+    <string name="title_activity_chennai">Chennai</string>
+
+
+    destination 03
+    <string name="place_3">Ooty </string>
+    <string name="title_activity_kodaikanal">Kodaikanal</string>
+    <string name="title_activity_ooty">Ooty</string>
+
+    <string name="place_4">Thanjavur </string>
+    <string name="title_activity_thanjavur">Thanjavur</string>
+
+    <string name="place_5">Coimbatore </string>
+    <string name="title_activity_coimbatore">Coimbatore</string>
+
+    <string name="place_6">Tiruchirappalli </string>
+    <string name="title_activity_tiruchirappalli">Tiruchirappalli</string>
+</resources>
